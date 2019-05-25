@@ -1,0 +1,8 @@
+{
+  "name": "websitetoapk",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "7d7c6a87"
+}
