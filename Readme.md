@@ -2,7 +2,7 @@
 
 This repository has some ionic experiences i made.
 
-#### [Websitetoapk](https://github.com/joaolrc/ionic/Websitetoapk) (Ionic Webview)
+#### [Websitetoapk](https://github.com/joaolrc/ionic/tree/master/Websitetoapk) (Ionic Webview)
  This is a basic webview in ionic which is linked to a website i am making. APK for android is already built in platforms\android\app\build\outputs\apk\debug.
 Feel free to use it with your own website as a way to adapt it for mobile users.
 Just edit the \src\pages\home\home.ts file with your URL.
